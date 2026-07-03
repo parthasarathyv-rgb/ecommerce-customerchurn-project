@@ -12,5 +12,5 @@ This data science project is an ecommerce customer churn project design to under
 #Skills demonstrated
 - Cleaned up data using SQL and structured it according to what was necessary
 - Data visualization using Excel
-- Machine learning, testing and training models
+- Machine learning, testing and training models using pandas
 - Feature Engineering
