@@ -1,0 +1,4 @@
+juypter
+pandas
+SQL
+sklearn
